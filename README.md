@@ -3,6 +3,9 @@ magari-workshops
 
 PHP VM with pre-installed cookbooks and vendors (dev).
 
+/*Änderung für nixe 2*/
+
+
 After cloning do the following:
 
     cd magari-workshops
